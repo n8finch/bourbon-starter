@@ -1,7 +1,7 @@
-@import "bourbon/bourbon";
-@import "neat/neat";
+@import "../bower_components/bourbon/app/assets/stylesheets/bourbon";
+@import "../bower_components/neat/app/assets/stylesheets/neat";
 @import "normalize";
-@import "base/base";
+@import "../bower_components/bitters/core/base";
 
 /**
  * Main
